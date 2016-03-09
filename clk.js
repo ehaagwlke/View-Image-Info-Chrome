@@ -56,7 +56,7 @@ function evt(info,tab){
 		popWinWidth = linkLength < 75 ? linkLength*8+100:800;
 		popWinHeight = 220;
 	
-		chrome.windows.create({"type":"popup","url":"vii.html","width":popWinWidth,"height":popWinHeight});
+		chrome.windows.create({"type":"panel","focused": true,"url":"vii.html","width":popWinWidth,"height":popWinHeight});
 
 		imgInfoObj={"imgSrc":imgSrc,"linkType":linkType,"tabUrl":tabUrl,"popWinWidth":popWinWidth,"popWinHeight":popWinHeight,"linkLength":linkLength,"altTitleStr":altTitleStr,"dispWidth":dispWidth,"dispHeight":dispHeight};
 }
