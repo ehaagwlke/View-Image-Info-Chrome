@@ -1,0 +1,65 @@
+{
+	"extName":{
+		"message":"View Image Info (properties)"
+	},
+	"author":{
+		"message":"Dingbao.ai[aka. ehaagwlke]"
+	},
+	"description":{
+		"message":"Прегледајте информације о слици (укључујући димензије, адресу, величину и тип датотеке) преко контекстног менија."
+	},
+	"contextMenuStr":{
+		"message":"Информације о слици"
+	},
+	"ilam":{
+		"message":"Учитавање слике је прекинуто"
+	},
+	"ilem":{
+		"message":"Слика се не може учитати!"
+	},
+	"loc":{
+		"message":"Адреса"
+	},
+	"dims":{
+		"message":"Димензије"
+	},
+	"ftype":{
+		"message":"Тип датотеке"
+	},
+	"fsize":{
+		"message":"Величина датотеке"
+	},
+	"prev":{
+		"message":"Преглед"
+	},
+	"eifz":{
+		"message":"Није доступно"
+	},
+	"eift":{
+		"message":"Није доступно"
+	},
+	"eid":{
+		"message":"Није доступно"
+	},
+	"osize":{
+		"message":"Оригинална величина"
+	},
+	"ploc":{
+		"message":"Адреса странице"
+	},
+	"alt":{
+		"message":"Текст"
+	},
+	"title":{
+		"message":"Наслов"
+	},
+	"ealt":{
+		"message":"--"
+	},
+	"eTit":{
+		"message":"--"
+	},
+	"smsg":{
+		"message":"скалирано на "
+	}
+}
