@@ -47,6 +47,9 @@
 	"ploc":{
 		"message":"页面地址"
 	},
+	"altTitleStr":{
+		"message":"Alt / Title"
+	},
 	"alt":{
 		"message":"Alt"
 	},

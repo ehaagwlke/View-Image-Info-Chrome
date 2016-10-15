@@ -47,9 +47,12 @@
 	"ploc":{
 		"message":"Page Location"
 	},
-	"alt":{
-		"message":"Alt"
+	"altTitleStr":{
+		"message":"Alt / Title"
 	},
+    "alt":{
+        "message": "Alt"
+    },
 	"title":{
 		"message":"Title"
 	},

@@ -47,6 +47,9 @@
 	"ploc":{
 		"message":"Адреса странице"
 	},
+    "altTitleStr":{
+		"message":"Текст / Наслов"
+	},
 	"alt":{
 		"message":"Текст"
 	},
