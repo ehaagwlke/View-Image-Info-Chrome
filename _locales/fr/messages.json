@@ -1,0 +1,68 @@
+{
+	"extName":{
+		"message":"Propriétés image"
+	},
+	"author":{
+		"message":"Dingbao.ai[aka. ehaagwlke]"
+	},
+	"description":{
+		"message":"Accès aux propriétés (dimensions, URL, taille et type de fichier) de l'image via le menu contextuel."
+	},
+	"contextMenuStr":{
+		"message":"Propriétés image"
+	},
+	"ilam":{
+		"message":"Chargement de l'image abandonnée"
+	},
+	"ilem":{
+		"message":"L'image ne peut pas être chargée!"
+	},
+	"loc":{
+		"message":"URL"
+	},
+	"dims":{
+		"message":"Dimensions"
+	},
+	"ftype":{
+		"message":"Type"
+	},
+	"fsize":{
+		"message":"Taille"
+	},
+	"prev":{
+		"message":"Aperçu"
+	},
+	"eifz":{
+		"message":"n/a"
+	},
+	"eift":{
+		"message":"n/a"
+	},
+	"eid":{
+		"message":"n/a"
+	},
+	"osize":{
+		"message":"Taille originalee"
+	},
+	"ploc":{
+		"message":"Page URL"
+	},
+	"altTitleStr":{
+		"message":"Alt / Title"
+	},
+    "alt":{
+        "message": "Alt"
+    },
+	"title":{
+		"message":"Title"
+	},
+	"ealt":{
+		"message":"--"
+	},
+	"eTit":{
+		"message":"--"
+	},
+	"smsg":{
+		"message":"Redimensionner à "
+	}
+}
