@@ -1,0 +1,68 @@
+{
+	"extName":{
+		"message":"View Image Info (properties)"
+	},
+	"author":{
+		"message":"Dingbao.ai[aka. ehaagwlke]"
+	},
+	"description":{
+		"message":"Zeigt die Eigenschaften (Maße, URL, Dateigröße, Dateityp) des Bilders auf das der Cursor zeigt mittel des Kontextmenüs."
+	},
+	"contextMenuStr":{
+		"message":"Bild-Informationen anzeigen"
+	},
+	"ilam":{
+		"message":"Laden des Bildes abgebrochen"
+	},
+	"ilem":{
+		"message":"Das Bild kann nicht geladen werden."
+	},
+	"loc":{
+		"message":"Adresse"
+	},
+	"dims":{
+		"message":"Maße"
+	},
+	"ftype":{
+		"message":"Dateityp"
+	},
+	"fsize":{
+		"message":"Größe"
+	},
+	"prev":{
+		"message":"Vorschau"
+	},
+	"eifz":{
+		"message":"nicht verfügbar"
+	},
+	"eift":{
+		"message":"nicht verfügbar"
+	},
+	"eid":{
+		"message":"nicht verfügbar"
+	},
+	"osize":{
+		"message":"Originalgröße"
+	},
+	"ploc":{
+		"message":"Seitenadresse"
+	},
+	"altTitleStr":{
+		"message":"Alt / Titel"
+	},
+    "alt":{
+        "message": "Alt"
+    },
+	"title":{
+		"message":"Titel"
+	},
+	"ealt":{
+		"message":"--"
+	},
+	"eTit":{
+		"message":"--"
+	},
+	"smsg":{
+		"message":"Skaliert zu "
+	}
+}
